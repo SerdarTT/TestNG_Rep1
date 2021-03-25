@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "4727@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "811cf33963233cf2",
+        "parentUid" : "850c2d92f4df3000831ffbd572cbb032",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616702958313,
+          "stop" : 1616702960567,
+          "duration" : 2254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "850c2d92f4df3000831ffbd572cbb032"
+    }, {
+      "name" : "4839@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "dbb75811435915c9",
+        "parentUid" : "e67101a31911112a0c82c450278cfdfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616702995338,
+          "stop" : 1616702997486,
+          "duration" : 2148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e67101a31911112a0c82c450278cfdfc"
+    }, {
+      "name" : "4177@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User should not be able to sign in",
+        "uid" : "19eefefd1b28f59e",
+        "parentUid" : "fd2d9a85b6be64fa84899a5ec2adaa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616702327433,
+          "stop" : 1616702329060,
+          "duration" : 1627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd2d9a85b6be64fa84899a5ec2adaa16"
+    }, {
+      "name" : "4111@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "f21814cb488958f8",
+        "parentUid" : "99bd34e59c97d47107b1b3fbbcbb96e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616702315591,
+          "stop" : 1616702317866,
+          "duration" : 2275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99bd34e59c97d47107b1b3fbbcbb96e8"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

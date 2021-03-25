@@ -1,0 +1,192 @@
+{
+  "uid" : "dbb75811435915c9",
+  "name" : "User is able to login:",
+  "fullName" : "Tests.LoginPTest.userCanLogin",
+  "historyId" : "273ce68399b4d5f93590d9386f6fb562",
+  "time" : {
+    "start" : 1616702995338,
+    "stop" : 1616702997486,
+    "duration" : 2148
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1616702991756,
+      "stop" : 1616702995211,
+      "duration" : 3455
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login OpenEDG webPage",
+      "time" : {
+        "start" : 1616702995391,
+        "stop" : 1616702997446,
+        "duration" : 2055
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Enter userName in the username box",
+        "time" : {
+          "start" : 1616702995392,
+          "stop" : 1616702995508,
+          "duration" : 116
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "user",
+          "value" : "steterbas@gmail.com"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Enter user password",
+        "time" : {
+          "start" : 1616702995508,
+          "stop" : 1616702995568,
+          "duration" : 60
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "pwd",
+          "value" : "Ilyas532,"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Click on Login Button",
+        "time" : {
+          "start" : 1616702995568,
+          "stop" : 1616702997446,
+          "duration" : 1878
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user1",
+        "value" : "steterbas@gmail.com"
+      }, {
+        "name" : "pwd1",
+        "value" : "Ilyas532,"
+      } ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1616702997496,
+      "stop" : 1616702997584,
+      "duration" : 88
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.LoginPTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.LoginPTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "userCanLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.LoginPTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "4839@Serdars-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "811cf33963233cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616702958313,
+        "stop" : 1616702960567,
+        "duration" : 2254
+      }
+    }, {
+      "uid" : "f21814cb488958f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616702315591,
+        "stop" : 1616702317866,
+        "duration" : 2275
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbb75811435915c9.json",
+  "parameterValues" : [ ]
+}

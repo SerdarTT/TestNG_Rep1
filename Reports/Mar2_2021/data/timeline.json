@@ -1,0 +1,570 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "9629@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "5a8dc5f109141474",
+        "parentUid" : "e53231578a8f1d37836980fb8efb462e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538062281,
+          "stop" : 1616538062281,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "df41b893b380ebb4",
+        "parentUid" : "e53231578a8f1d37836980fb8efb462e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538062123,
+          "stop" : 1616538062153,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e53231578a8f1d37836980fb8efb462e"
+    }, {
+      "name" : "9856@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "cab638af87309b69",
+        "parentUid" : "0f1e7e6e2e5b69efd8a4b6c6b1d8b77f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538396548,
+          "stop" : 1616538396548,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "2558f1dfd0ed425a",
+        "parentUid" : "0f1e7e6e2e5b69efd8a4b6c6b1d8b77f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538396365,
+          "stop" : 1616538396413,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f1e7e6e2e5b69efd8a4b6c6b1d8b77f"
+    }, {
+      "name" : "2382@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "302f2a28b8b49b54",
+        "parentUid" : "7bcf6c7b48a035a6b07ed71a333d9260",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698319258,
+          "stop" : 1616698319300,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "4442ed8dee1c94b0",
+        "parentUid" : "7bcf6c7b48a035a6b07ed71a333d9260",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698319451,
+          "stop" : 1616698319451,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7bcf6c7b48a035a6b07ed71a333d9260"
+    }, {
+      "name" : "9689@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "55367020ed70eacf",
+        "parentUid" : "58e621baf0efb77bf8dcaead8401977d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538131170,
+          "stop" : 1616538131170,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "a83f9b861723199",
+        "parentUid" : "58e621baf0efb77bf8dcaead8401977d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538131004,
+          "stop" : 1616538131038,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "58e621baf0efb77bf8dcaead8401977d"
+    }, {
+      "name" : "9539@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "363d85c885ef715d",
+        "parentUid" : "9b29683a9737824ecddd57f4b42021c3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616537798389,
+          "stop" : 1616537798435,
+          "duration" : 46
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "48e2474264371670",
+        "parentUid" : "9b29683a9737824ecddd57f4b42021c3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616537798574,
+          "stop" : 1616537798574,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b29683a9737824ecddd57f4b42021c3"
+    }, {
+      "name" : "2569@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "54f5a99d9535308a",
+        "parentUid" : "96cf2e33a974955dbf52a6d66e9ebe69",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1616698567408,
+          "stop" : 1616698567410,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "2193792ce83a7f7a",
+        "parentUid" : "96cf2e33a974955dbf52a6d66e9ebe69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698567400,
+          "stop" : 1616698567401,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "96cf2e33a974955dbf52a6d66e9ebe69"
+    }, {
+      "name" : "2506@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "f308cc29d67c4b9",
+        "parentUid" : "e9ab0691189e46126db2d054c3b95d8e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698496284,
+          "stop" : 1616698496325,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "359e60893f4749f",
+        "parentUid" : "e9ab0691189e46126db2d054c3b95d8e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698496437,
+          "stop" : 1616698496437,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9ab0691189e46126db2d054c3b95d8e"
+    }, {
+      "name" : "9232@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "5ac1bea491c8b78b",
+        "parentUid" : "f7bffe89800d509806ed3d63b657634e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616536940435,
+          "stop" : 1616536940482,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "ed7a491f2e7b066f",
+        "parentUid" : "f7bffe89800d509806ed3d63b657634e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616536940624,
+          "stop" : 1616536940624,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f7bffe89800d509806ed3d63b657634e"
+    }, {
+      "name" : "2402@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "81d878cf12fb50f3",
+        "parentUid" : "d519d647be0f116feefc469bd32ac7a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698322846,
+          "stop" : 1616698322846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "243bcc4ca914e84f",
+        "parentUid" : "d519d647be0f116feefc469bd32ac7a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698322683,
+          "stop" : 1616698322720,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d519d647be0f116feefc469bd32ac7a4"
+    }, {
+      "name" : "2731@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "24393026cf167f11",
+        "parentUid" : "b3ae7c0d2a9184b50fae83a2782b8730",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698802040,
+          "stop" : 1616698835080,
+          "duration" : 33040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b3ae7c0d2a9184b50fae83a2782b8730"
+    }, {
+      "name" : "7919@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "50092cda604bc01d",
+        "parentUid" : "0ee445c64aea6f2d43a1e7d8974ab652",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616529740251,
+          "stop" : 1616529740293,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "f351b1b5c40f4f0e",
+        "parentUid" : "0ee445c64aea6f2d43a1e7d8974ab652",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616529740451,
+          "stop" : 1616529740451,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ee445c64aea6f2d43a1e7d8974ab652"
+    }, {
+      "name" : "9842@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "7a6e4d81d6badb3a",
+        "parentUid" : "3521f0decda8a1312283907006fb714d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538393173,
+          "stop" : 1616538393174,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "bb8d90c9ffdd8b30",
+        "parentUid" : "3521f0decda8a1312283907006fb714d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538392994,
+          "stop" : 1616538393036,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3521f0decda8a1312283907006fb714d"
+    }, {
+      "name" : "2665@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "a3fbb5db1663b432",
+        "parentUid" : "0deb23eed19e983a14f3751d85914806",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698774171,
+          "stop" : 1616698782305,
+          "duration" : 8134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0deb23eed19e983a14f3751d85914806"
+    }, {
+      "name" : "2345@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "955a876dd08c78e6",
+        "parentUid" : "e9fa21f2e61db124cf284d81f5df071c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698207172,
+          "stop" : 1616698207216,
+          "duration" : 44
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9fa21f2e61db124cf284d81f5df071c"
+    }, {
+      "name" : "9796@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "c99a0b56e6def3d7",
+        "parentUid" : "3d5ee877a24a688b3e4123a82c987090",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538322937,
+          "stop" : 1616538322980,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "b74ef9614b209ecf",
+        "parentUid" : "3d5ee877a24a688b3e4123a82c987090",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538323173,
+          "stop" : 1616538323174,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3d5ee877a24a688b3e4123a82c987090"
+    }, {
+      "name" : "9778@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "154f51280efc9ef",
+        "parentUid" : "53e0265b43c531ef1843369a0570b486",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538318447,
+          "stop" : 1616538318447,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "91c281fe392201c1",
+        "parentUid" : "53e0265b43c531ef1843369a0570b486",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538318172,
+          "stop" : 1616538318276,
+          "duration" : 104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "53e0265b43c531ef1843369a0570b486"
+    }, {
+      "name" : "9888@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "cbccd83935fc21a7",
+        "parentUid" : "4b331b6bfe03d81a733796af61fc712d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538422795,
+          "stop" : 1616538422795,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "657f5a9e56c733a7",
+        "parentUid" : "4b331b6bfe03d81a733796af61fc712d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538422591,
+          "stop" : 1616538422647,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4b331b6bfe03d81a733796af61fc712d"
+    }, {
+      "name" : "9403@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "fe3103950bef006",
+        "parentUid" : "6735457548aa3684ab0c5824c0122ea2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616537570823,
+          "stop" : 1616537570823,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User is able to login:",
+        "uid" : "32d918faa598d946",
+        "parentUid" : "6735457548aa3684ab0c5824c0122ea2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616537570552,
+          "stop" : 1616537570620,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6735457548aa3684ab0c5824c0122ea2"
+    }, {
+      "name" : "8162@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "307d86c4b89bf999",
+        "parentUid" : "0bd98eab56eee8e36aac327d6ac98afe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616530469394,
+          "stop" : 1616530469434,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "3f3f5ce635bf496",
+        "parentUid" : "0bd98eab56eee8e36aac327d6ac98afe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616530469583,
+          "stop" : 1616530469583,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0bd98eab56eee8e36aac327d6ac98afe"
+    }, {
+      "name" : "9884@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "41d91055f648bcbf",
+        "parentUid" : "23c45893f426cc1a975f5feafe42a92d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538419286,
+          "stop" : 1616538419324,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "quitDriver",
+        "uid" : "7783fe0d9a8edb2a",
+        "parentUid" : "23c45893f426cc1a975f5feafe42a92d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616538419463,
+          "stop" : 1616538419463,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "23c45893f426cc1a975f5feafe42a92d"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

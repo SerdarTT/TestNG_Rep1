@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Mar 25 14:54:56 EDT 2021","Thu Mar 25 14:54:56 EDT 2021","0","Surefire suite","Surefire test","Tests.LoginPTest","Tests.LoginPTest","quitDriver","quitDriver",""
+"broken","Thu Mar 25 14:56:07 EDT 2021","Thu Mar 25 14:56:07 EDT 2021","1","Surefire suite","Surefire test","Tests.LoginPTest","Tests.LoginPTest","initDriver","initDriver",""
+"broken","Thu Mar 25 15:00:02 EDT 2021","Thu Mar 25 15:00:35 EDT 2021","33040","Surefire suite","Surefire test","Tests.LoginPTest","Tests.LoginPTest","userCanLogin","User is able to login:",""

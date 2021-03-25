@@ -1,0 +1,56 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "quitDriver",
+        "uid" : "359e60893f4749f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698496437,
+          "stop" : 1616698496437,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "2193792ce83a7f7a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698567400,
+          "stop" : 1616698567401,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "Expected condition failed: Element is found after 30 seconds of fluent wait (tried for 30 second(s) with 1000 milliseconds interval)",
+      "children" : [ {
+        "name" : "User is able to login:",
+        "uid" : "24393026cf167f11",
+        "parentUid" : "7f0c2b9ba2a79fccd731525194c7c27b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616698802040,
+          "stop" : 1616698835080,
+          "duration" : 33040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f0c2b9ba2a79fccd731525194c7c27b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

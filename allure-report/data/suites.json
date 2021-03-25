@@ -1,0 +1,55 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "TestNG_Rep1",
+      "children" : [ {
+        "name" : "Tests.invalidLogin",
+        "children" : [ {
+          "name" : "User should not be able to sign in",
+          "uid" : "19eefefd1b28f59e",
+          "parentUid" : "acbf8e5d06065eed0154c887bf485600",
+          "status" : "passed",
+          "time" : {
+            "start" : 1616702327433,
+            "stop" : 1616702329060,
+            "duration" : 1627
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "acbf8e5d06065eed0154c887bf485600"
+      } ],
+      "uid" : "05ffaf7febee91a8b59f46b0721dae4a"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "Tests.LoginPTest",
+        "children" : [ {
+          "name" : "User is able to login:",
+          "uid" : "dbb75811435915c9",
+          "parentUid" : "7624db702f8ee14ef87346abf91311c3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1616702995338,
+            "stop" : 1616702997486,
+            "duration" : 2148
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7624db702f8ee14ef87346abf91311c3"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

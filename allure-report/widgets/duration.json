@@ -1,0 +1,21 @@
+[ {
+  "uid" : "dbb75811435915c9",
+  "name" : "User is able to login:",
+  "time" : {
+    "start" : 1616702995338,
+    "stop" : 1616702997486,
+    "duration" : 2148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19eefefd1b28f59e",
+  "name" : "User should not be able to sign in",
+  "time" : {
+    "start" : 1616702327433,
+    "stop" : 1616702329060,
+    "duration" : 1627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

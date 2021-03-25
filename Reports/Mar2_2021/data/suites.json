@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "Tests.LoginPTest",
+        "children" : [ {
+          "name" : "quitDriver",
+          "uid" : "359e60893f4749f",
+          "parentUid" : "7624db702f8ee14ef87346abf91311c3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1616698496437,
+            "stop" : 1616698496437,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "initDriver",
+          "uid" : "2193792ce83a7f7a",
+          "parentUid" : "7624db702f8ee14ef87346abf91311c3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1616698567400,
+            "stop" : 1616698567401,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "User is able to login:",
+          "uid" : "24393026cf167f11",
+          "parentUid" : "7624db702f8ee14ef87346abf91311c3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1616698802040,
+            "stop" : 1616698835080,
+            "duration" : 33040
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7624db702f8ee14ef87346abf91311c3"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

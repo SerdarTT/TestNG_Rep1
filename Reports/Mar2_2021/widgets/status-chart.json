@@ -1,0 +1,31 @@
+[ {
+  "uid" : "359e60893f4749f",
+  "name" : "quitDriver",
+  "time" : {
+    "start" : 1616698496437,
+    "stop" : 1616698496437,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2193792ce83a7f7a",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1616698567400,
+    "stop" : 1616698567401,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24393026cf167f11",
+  "name" : "User is able to login:",
+  "time" : {
+    "start" : 1616698802040,
+    "stop" : 1616698835080,
+    "duration" : 33040
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
